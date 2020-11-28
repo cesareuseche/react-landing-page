@@ -7,8 +7,8 @@ const Jumbotron = () => {
 			<div className="container">
 				<div className="row">
 					<div className="col-md-12">
-						<div className="jumbotron">
-							<h1 className="display-4">{"Hello World!"}</h1>
+						<div className="jumbotron ">
+							<h1 className="display-4 mt-4">{"Hello World!"}</h1>
 							<p className="lead">
 								{
 									"This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information."
