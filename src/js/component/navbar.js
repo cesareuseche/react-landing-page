@@ -5,7 +5,7 @@ const NavBar = () => {
 	return (
 		<React.Fragment>
 			<nav className="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
-				<a classNameName="navbar-brand padding" href="#">
+				<a className="navbar-brand padding" href="#">
 					Navbar
 				</a>
 				<button
